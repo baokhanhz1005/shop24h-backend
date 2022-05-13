@@ -1,0 +1,25 @@
+{
+  "name": "project-crud-shop24h",
+  "version": "1.0.0",
+  "description": "CRUD shop24h",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/devcamp120.r2112/exercise/khanhnb/project-CRUD-shop24h.git"
+  },
+  "author": "BK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/devcamp120.r2112/exercise/khanhnb/project-CRUD-shop24h/issues"
+  },
+  "homepage": "https://gitlab.com/devcamp120.r2112/exercise/khanhnb/project-CRUD-shop24h#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "nodemon": "^2.0.15"
+  }
+}
